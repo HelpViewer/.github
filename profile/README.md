@@ -11,7 +11,7 @@ It supports **offline use**, needs **no backend or server**, offering a clean an
 - 💬 [Join Discord][Discord] user group
 - 📧 [Contact us][email]
 
-[MITL]: LICENSE "License text"
+[MITL]: ../LICENSE "License text"
 [website]: https://helpviewer.github.io/ "Project introduction"
 [OpenInViewer]: https://helpviewer.github.io/?d=https://raw.githubusercontent.com/HelpViewer/HelpViewer/master/ "Open this file in HelpViewer"
 [Discord]: https://discord.gg/J2SjcmqHSZ "Discord user gorup"
