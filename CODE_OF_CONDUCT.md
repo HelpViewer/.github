@@ -25,6 +25,7 @@ Violations may result in warnings, moderation, or exclusion from the project and
 If you observe inappropriate behavior, please contact us at:
 
 - 📧 hlpviewer@gmail.com
+  - 🏷️ Subject: COC
 - 💬 [Discord][Discord] (private message to the admins)
 
 All reports will be handled sensitively and confidentially.
