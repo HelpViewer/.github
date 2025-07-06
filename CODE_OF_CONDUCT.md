@@ -1,4 +1,4 @@
-# Code of Conduct
+# 🧑‍🤝‍🧑 Code of Conduct
 
 This project welcomes all contributors who act with decency, openness, and respect toward others.
 
