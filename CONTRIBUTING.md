@@ -11,6 +11,13 @@ Thank you for contributing to this project! To ensure a smooth and efficient col
 5. Push the branch to your fork (`git push origin my-function`).
 6. Create a Pull Request (PR) from your branch to the main branch of this repository.
 
+## 💬 Communication
+
+- Be respectful and follow the [Code of Conduct](CODE_OF_CONDUCT.md).
+- All code, comments, variable names, function names, and identifiers **must be written in English**.
+- English is also the required language for all contributions, discussions, commit messages, and pull requests.
+- Avoid using abbreviations or words from other languages in code unless they are established technical terms.
+
 ## 🖋️ Code style and formatting
 
 - Follow existing code style and conventions.
@@ -44,8 +51,7 @@ function configGetValue(key, backup, CFG = FILE_CONFIG) {
 ### 🚫 Restrictions
 
 - No custom elements (web components)
-- No JS classes, modules, or frameworks like React/Vue/jQuery
-- Use factory functions instead of classes
+- No JS modules, or frameworks like React/Vue/jQuery
 
 ## ✅ Testing
 
@@ -55,10 +61,6 @@ function configGetValue(key, backup, CFG = FILE_CONFIG) {
 
 - PRs will be reviewed before merging.
 - Please be patient during the review process.
-
-## 💬 Communication
-
-- Be respectful and follow the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## 📦 Versioning
 
